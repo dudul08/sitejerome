@@ -1,14 +1,13 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
-?><!DOCTYPE html>
+?>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
 	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scsale=1.0">
-	<meta http-equiv="X-UA-Compatible" content="ie=edge">
 	<link rel="stylesheet" href="{{ base_url() }}dist/css/app.css">
-	
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	
 	<title>Pharmacien remplaçant</title>
 	
@@ -16,19 +15,23 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 <body>
 	<header>
-		<div class="test">
-			<div class="test2"></div>
-			<div class="titre">
-				<h1>Jérome SUPPIN</h1>
-				<h1>Docteur en Pharmacie</h1>
+		
+		<div class="fond">
+			
+			<div class="entete">
+				<img src="{{ base_url('dist/images/js.png') }}" height="125 px" width="125 px"  srcset="">
+				<span class="entete-nom ">
+					<h3>Jérome SUPPIN </h3>
+					<h5>Docteur en Pharmacie</h5> 
+				</span>
 			</div>
 			
 		</div>
 	</header>
 	
-	<nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+	<nav class="navbar navbar-expand-sm navbar-dark bg-primary">
 		<a class="navbar-brand" href="#">
-			<img src="{{ base_url() }}dist/images/caducee.png" width="30" height="30" alt="">
+			<img src="{{ base_url('dist/images/caducee.png') }}" width="30" height="30" alt="">
 		</a>
 		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
 		aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -49,9 +52,12 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		</ul>
 	</div>
 </nav>
-<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
-crossorigin="anonymous"></script>
-<script src="{{ base_url() }}dist/js/bootstrap.min.js"></script>
+
+
+
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
 </body>
 
 </html>

@@ -5,28 +5,24 @@ footer {
   bottom: 0px;
 }
 
-.test {
+.fond {
   position: relative;
-  height: 250px;
+  height: 220px;
   background-image: linear-gradient(to bottom, rgba(1, 128, 1, 0.479), #018001 90%), url("http://localhost:8080/sitejerome/dist/images/pharma2.jpg");
   background-size: cover;
 }
 
-.test2 {
-  position: absolute;
-  left: 40px;
-  top: 40px;
-  height: 200px;
-  width: 200px;
-  background-image: url("http://localhost:8080/sitejerome/dist/images/js.png");
-  background-size: cover;
+.entete {
+  padding-top: 20px;
+  text-align: center;
 }
 
-.titre {
-  position: absolute;
-  left: 250px;
-  top: 40px;
+.entete-nom {
+  width: 250px;
+  vertical-align: middle;
+  text-align: center;
   color: #ffffff;
+  display: inline-block;
 }
 
 /*!

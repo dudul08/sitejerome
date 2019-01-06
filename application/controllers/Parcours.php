@@ -1,7 +1,7 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-class Welcome extends CI_Controller {
+class Parcours extends CI_Controller {
 
 	/**
 	 * Index Page for this controller.
@@ -21,7 +21,7 @@ class Welcome extends CI_Controller {
 	public function index()
 	{
 	//	$this->load->library('slice');
-		$this->slice->view('welcome_message', ['name' => 'GustMartins']);
+		$this->slice->view('parcours_professionel');
 	//	$this->load->view('welcome_message');
 	}
 }

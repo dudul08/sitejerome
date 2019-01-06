@@ -5,14 +5,14 @@ footer {
   bottom: 0px;
 }
 
-.fond {
+.bg-entete {
   position: relative;
   height: 220px;
-  background-image: linear-gradient(to bottom, rgba(1, 128, 1, 0.479), #018001 90%), url("http://localhost:8080/sitejerome/dist/images/pharma2.jpg");
+  background-image: linear-gradient(to bottom, rgba(1, 128, 1, 0.479), #018001 90%), url("https://pharmacien-remplacement.fr/dist/images/pharma2.jpg");
   background-size: cover;
 }
 
-.entete {
+.entete-image {
   padding-top: 20px;
   text-align: center;
 }

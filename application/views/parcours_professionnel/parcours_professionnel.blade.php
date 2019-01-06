@@ -1,8 +1,6 @@
 @extends('template/template')
 @section('content')
-<main role="main" >
-	<div class=container style="margin-top:20px;">
-		
+
 		<div class="row">
 			<div class="col-md-4">
 				<h3>Mes compétences</h3>
@@ -24,7 +22,5 @@
 							
 						</div>
 					</div><!-- Example row of columns -->
-					<hr>
-				</div>
-            </main>
+
 @endsection

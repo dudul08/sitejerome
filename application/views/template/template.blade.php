@@ -52,9 +52,16 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		</ul>
 	</div>
 </nav>
-@yield('content') 
-<footer style="position: relative; bottom: 0;cleft: 0;"  class="container">
-    <p> <h6> © Jérôme SUPPIN 2019</h6></p>
+<main role="main" >
+	<div class=container style="margin-top:20px;">
+			@yield('content')
+	<hr>
+	</div>
+	
+</main>	
+
+<footer  class="container">
+	<p> <h6> © Jérôme SUPPIN 2019</h6></p>
 </footer>
 
 

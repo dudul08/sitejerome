@@ -7,7 +7,7 @@
 	
 	<div class="col-md-12">
 		<p>
-			Je suis souple en terme d'organisation. Je m'adapte à toutes les situations. J'étudie toutes les propositions de remplacement. Je suis très réactif pour répondre à vos demandes et questions. 
+			Je suis souple en terme d'organisation. Je m'adapte à toutes les situations. Je suis disponible pour des remplacements à la journée ( 1 ou plusieurs jours ), à la semaine, toute durée. J'étudie toutes les propositions de remplacement. Je suis très réactif pour répondre à vos demandes et questions. 
 		</p>
 		
 	</div>

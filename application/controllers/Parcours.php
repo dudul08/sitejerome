@@ -21,7 +21,7 @@ class Parcours extends CI_Controller {
 	public function index()
 	{
 	//	$this->load->library('slice');
-		$this->slice->view('parcours_professionel');
+		$this->slice->view('parcours_professionnel/parcours_professionnel');
 	//	$this->load->view('welcome_message');
 	}
 }

@@ -4,7 +4,7 @@
 <div class="row">
 	<div class="col-md-4">
 		<div class="card">
-			<div class="card-body" style="height:300px;">
+			<div class="card-body">
 				<h3>Mes compétences</h3>
 				<p>
 					Je suis diplômé de la faculté  de pharmacie de Lille depuis 1992. Je travaille avec les principaux logiciels utilisés dans les officines (Smart Rx, LGPI, Winpharma ).
@@ -14,7 +14,7 @@
 		</div>
 	</div>
 	<div class="col-md-4">
-		<div class="card" style="height:300px;">
+		<div class="card">
 			<div class="card-body">
 				<h3>Mes expériences</h3>
 				<p> J'exerce le métier de pharmacien dans de nombreuses officines de la région en tant que pharmacien adjoint ou remplaçant.
@@ -24,7 +24,7 @@
 		</div>
 	</div>
 	<div class="col-md-4">
-		<div class="card" style="height:300px;">
+		<div class="card">
 			<div class="card-body">
 				<h3>Mon métier</h3>
 				<p>J'exerce ce métier avec rigueur et discipline.

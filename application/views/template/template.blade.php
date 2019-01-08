@@ -64,7 +64,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 </main>	
 
 <footer  class="container">
-	<p> <h6> © Jérôme SUPPIN 2019</h6></p>
+	<p> <h6 class="text-black-50"> © Jérôme SUPPIN 2019</h6></p>
 </footer>
 
 

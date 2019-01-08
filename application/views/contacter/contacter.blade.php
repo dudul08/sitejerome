@@ -2,7 +2,7 @@
 @section('content')
 
 
-	<div class="card m-3 shadow-sm w-50">
+	<div class="card m-3 shadow-sm ">
 		<div class="card-body ">
 			<h5 class="text-primary">Mes coordonnées : </h5>
 			<p>

@@ -22,13 +22,13 @@
 			<div class="form-group row">
 				<label  class="col-sm-2 col-form-label">Du</label>
 				<div class="col-sm-10">
-					<input type="text" class="form-control datepicker w-50" value="14/09/1989">
+					<input type="text" class="form-control datepicker w-50" value="01/02/2019">
 				</div>
 			</div>
 			<div class="form-group row">
 				<label  class="col-sm-2 col-form-label">Au</label>
 				<div class="col-sm-10">
-					<input type="text" class="form-control datepicker w-50" value="14/09/1989">
+					<input type="text" class="form-control datepicker w-50" value="01/02/2019">
 				</div>
 			</div>	
 			<div class="form-group row">
